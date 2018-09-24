@@ -1,5 +1,8 @@
 _repo: Un-cavallo-nella-luna-Novelle_56775
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56775-h/images/cover.jpg
 creator:
   author:
     agent_name: Pirandello, Luigi
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8041
     wikipedia: http://en.wikipedia.org/wiki/Luigi_Pirandello
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56775#Un-cavallo-nella-luna-Novelle
 gutenberg_bookshelf: IT Racconti
 gutenberg_issued: '2018-03-18'
 gutenberg_type: Text
